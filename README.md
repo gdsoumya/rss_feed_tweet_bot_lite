@@ -24,6 +24,7 @@ The project comes with a '[test.py]()' file that demonstrates how one can integr
 
 ```python
 from rss_tweet_bot import RssTweetBot
+
 # initialize bot
 bot = RssTweetBot(<consumer api key>,<consumer api secret>,<access token>, \
                   <access token secret>,<tweet interval>,<feed list>)
