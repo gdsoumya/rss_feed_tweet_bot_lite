@@ -20,7 +20,7 @@ The Project has a few dependencies which can be installed by running.
 $ pip install -r dependencies.txt 
 ```
 ## Integrating the Bot
-The project comes with a '[test.py]()' file that demonstrates how one can integrate the bot into an existing project. To create an instance of the bot, implement the following code.
+The project comes with a '[test.py](https://github.com/gdsoumya/rss_feed_tweet_bot_lite/blob/master/test.py)' file that demonstrates how one can integrate the bot into an existing project. To create an instance of the bot, implement the following code.
 
 ```python
 from rss_tweet_bot import RssTweetBot
